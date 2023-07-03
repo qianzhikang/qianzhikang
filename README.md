@@ -6,4 +6,4 @@
 
 ## Blog
 
-[This is my blog](https://qianzhikang.github.io/qzk.github.io/)
+[This is my blog](https://qianzhikang.github.io/blog/)
