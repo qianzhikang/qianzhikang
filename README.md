@@ -8,4 +8,4 @@
 
 [This is my blog](https://qianzhikang.github.io/blog/)
 
-![snk](https://github.com/qianzhikang/qianzhikang/blob/output/ocean.gif)
+![snk](https://github.com/qianzhikang/qianzhikang/blob/output/github-snake.svg)
